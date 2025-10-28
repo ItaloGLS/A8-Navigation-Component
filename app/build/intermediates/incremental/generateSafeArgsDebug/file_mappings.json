@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.cinema.ui.home.HomeFragmentDirections","com.example.cinema.ui.movies.MoviesFragmentDirections","com.example.cinema.ui.favorites.FavoritesFragmentDirections","com.example.cinema.ui.detail.MovieDetailFragmentArgs"]}]

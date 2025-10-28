@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaNavApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_movies">Filmes</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_detail">Detalhe</string>
+</resources>
